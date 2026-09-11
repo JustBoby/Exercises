@@ -1,0 +1,4 @@
+﻿  11.9 Variable exercises.cpp
+C:\Users\timur.alexandrov\Desktop\Exercises\11.9 Variable exercises\11.9 Variable exercises\11.9 Variable exercises.cpp(11,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\timur.alexandrov\Desktop\Exercises\11.9 Variable exercises\11.9 Variable exercises\11.9 Variable exercises.cpp(47,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  11.9 Variable exercises.vcxproj -> C:\Users\timur.alexandrov\Desktop\Exercises\11.9 Variable exercises\x64\Debug\11.9 Variable exercises.exe
